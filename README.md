@@ -27,6 +27,19 @@ Analyzing over half a million records of unorganized sales data using ETL techni
 ☑ Development of customer net sales and market vs. target performance reports.
 ☑ Establishment of data model relationships and use of DAX for calculated columns.
 
+
+
+
+
+
+![Customer Performance Report](https://github.com/user-attachments/assets/4272939a-9e66-4466-9ad0-5592f2f3450a)
+
+
+![Atiq p L ](https://github.com/user-attachments/assets/0f9ac148-299a-41b7-9e12-a1a81fc80abd)
+
+
+
+
 ////...
 
 Project Insights :-
@@ -46,6 +59,4 @@ Project Insights :-
 
 
 ///
-![Customer Performance Report](https://github.com/user-attachments/assets/4272939a-9e66-4466-9ad0-5592f2f3450a)
-
 
