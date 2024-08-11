@@ -42,3 +42,10 @@ Project Insights :-
 ✅️Gross Margin % by Quarters (Sub-Zone): Examined gross margin percentages segmented by quarters and sub-zones.
 ✅️Profit and Loss by Fiscal Year/Month: Comprehensive and monthly breakdowns of profit and loss trends.
 ✅️Profit and Loss by Markets: Identified profitable and underperforming market areas.
+
+
+
+///
+![Customer Performance Report](https://github.com/user-attachments/assets/4272939a-9e66-4466-9ad0-5592f2f3450a)
+
+
